@@ -1,0 +1,20 @@
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'base/base';
+@import 'base/colors';
+@import 'base/typography';
+
+@import 'layout/footer';
+@import 'layout/cta';
+@import 'layout/nosotros';
+@import 'layout/descripcion-segunda';
+@import 'layout/descripcio-primera';
+@import 'layout/home-section';
+@import 'layout/header';
+
+@import 'components/buttons';
+
+@import 'pages/home';
+
+@import 'themes/theme';
